@@ -1,1 +1,1 @@
-# stepik_autotest_finish_project
+finish_project in course: 'Автоматизация тестирования с помощью Selenium и Python'
